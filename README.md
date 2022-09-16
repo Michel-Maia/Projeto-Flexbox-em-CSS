@@ -17,4 +17,3 @@
 - CSS
 - JavaScript
 - Git e GitHub
-
